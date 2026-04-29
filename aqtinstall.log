@@ -1,0 +1,155 @@
+2026-04-26 03:07:21,686 - aqt.main - INFO - installer 10512 aqtinstall(aqt) v3.3.0 on Python 3.11.9 [CPython MSC v.1938 64 bit (AMD64)]
+2026-04-26 03:07:21,687 - aqt.helper - DEBUG - helper 10512 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/Updates.xml.sha256
+2026-04-26 03:07:24,570 - aqt.helper - DEBUG - helper 4404 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha256
+2026-04-26 03:07:24,581 - aqt.helper - DEBUG - helper 21200 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha256
+2026-04-26 03:07:24,618 - aqt.helper - DEBUG - helper 14980 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha256
+a256
+2026-04-26 03:07:25,712 - aqt.helper - INFO - helper 4404 Downloading qtbase...
+2026-04-26 03:07:25,712 - aqt.installer - DEBUG - installer 4404 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:25,766 - aqt.helper - INFO - helper 21200 Downloading qtsvg...
+2026-04-26 03:07:25,766 - aqt.installer - DEBUG - installer 21200 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:25,769 - aqt.helper - INFO - helper 15348 Downloading qtdeclarative...
+2026-04-26 03:07:25,770 - aqt.helper - INFO - helper 14980 Downloading qttools...
+2026-04-26 03:07:25,770 - aqt.installer - DEBUG - installer 15348 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:25,771 - aqt.installer - DEBUG - installer 14980 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:26,870 - aqt.helper - DEBUG - helper 4404 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:26,870 - aqt.helper - INFO - helper 4404 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:07:26,872 - aqt.helper - DEBUG - helper 21200 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:26,872 - aqt.helper - INFO - helper 21200 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:07:26,895 - aqt.helper - DEBUG - helper 14980 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:26,895 - aqt.helper - INFO - helper 14980 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:07:26,904 - aqt.helper - DEBUG - helper 15348 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:26,904 - aqt.helper - INFO - helper 15348 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:07:29,078 - aqt.installer - INFO - installer 21200 Finished installation of qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z in 4.49883440
+2026-04-26 03:07:29,094 - aqt.helper - DEBUG - helper 21200 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha256
+2026-04-26 03:07:31,530 - aqt.helper - INFO - helper 21200 Downloading qttranslations...
+2026-04-26 03:07:31,530 - aqt.installer - DEBUG - installer 21200 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:07:54,736 - aqt.installer - INFO - installer 4404 Finished installation of qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z in 30.16755420
+2026-04-26 03:07:54,763 - aqt.helper - DEBUG - helper 4404 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911MinGW-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev1-runtime.7z.sha256
+2026-04-26 03:07:55,697 - aqt.helper - INFO - helper 4404 Downloading MinGW...
+2026-04-26 03:07:55,697 - aqt.installer - DEBUG - installer 4404 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911MinGW-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev1-runtime.7z
+2026-04-26 03:07:56,051 - aqt.installer - INFO - installer 14980 Finished installation of qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z in 31.45662220
+2026-04-26 03:07:56,076 - aqt.helper - DEBUG - helper 14980 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911d3dcompiler_47-x64.7z.sha256
+2026-04-26 03:07:56,735 - aqt.helper - DEBUG - helper 4404 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911MinGW-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev1-runtime.7z
+2026-04-26 03:07:56,735 - aqt.helper - INFO - helper 4404 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:07:59,075 - aqt.installer - INFO - installer 4404 Finished installation of MinGW-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev1-runtime.7z in 4.31377810
+2026-04-26 03:07:59,094 - aqt.helper - DEBUG - helper 4404 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911opengl32sw-64-mesa_11_2_2-signed_sha256.7z.sha256
+2026-04-26 03:08:00,024 - aqt.helper - INFO - helper 14980 Downloading d3dcompiler_47...
+2026-04-26 03:08:00,024 - aqt.installer - DEBUG - installer 14980 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911d3dcompiler_47-x64.7z
+2026-04-26 03:08:00,032 - aqt.helper - INFO - helper 4404 Downloading opengl32sw...
+2026-04-26 03:08:00,033 - aqt.installer - DEBUG - installer 4404 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911opengl32sw-64-mesa_11_2_2-signed_sha256.7z
+2026-04-26 03:08:01,054 - aqt.helper - DEBUG - helper 14980 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911d3dcompiler_47-x64.7z
+2026-04-26 03:08:01,054 - aqt.helper - INFO - helper 14980 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:08:01,088 - aqt.helper - DEBUG - helper 4404 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911opengl32sw-64-mesa_11_2_2-signed_sha256.7z
+2026-04-26 03:08:01,088 - aqt.helper - INFO - helper 4404 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:08:05,587 - aqt.helper - DEBUG - helper 21200 Asked to redirect(302) to: https://qtproject.mirror.liquidtelecom.com/online/qtsdkrepository/windows_x86/desktop/qt6_660/qt.qt6.660.win64_mingw/6.6.0-0-202310040911qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z
+2026-04-26 03:08:05,587 - aqt.helper - INFO - helper 21200 Redirected: qtproject.mirror.liquidtelecom.com
+2026-04-26 03:08:06,566 - aqt.installer - INFO - installer 14980 Finished installation of d3dcompiler_47-x64.7z in 10.49505340
+2026-04-26 03:08:09,657 - aqt.installer - INFO - installer 21200 Finished installation of qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z in 40.56546810
+2026-04-26 03:08:10,344 - aqt.installer - INFO - installer 4404 Finished installation of opengl32sw-64-mesa_11_2_2-signed_sha256.7z in 11.25204710
+2026-04-26 03:08:23,683 - aqt.installer - INFO - installer 15348 Finished installation of qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z in 59.09539060
+2026-04-26 03:08:24,062 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\bin\qmake.exe
+2026-04-26 03:08:24,071 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Concurrent.pc
+2026-04-26 03:08:24,073 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Core.pc
+2026-04-26 03:08:24,075 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6DBus.pc
+2026-04-26 03:08:24,079 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Designer.pc
+2026-04-26 03:08:24,081 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Gui.pc
+2026-04-26 03:08:24,082 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Help.pc
+2026-04-26 03:08:24,083 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6LabsAnimation.pc
+2026-04-26 03:08:24,084 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6LabsFolderListModel.pc
+2026-04-26 03:08:24,085 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6LabsQmlModels.pc
+2026-04-26 03:08:24,086 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6LabsSettings.pc
+2026-04-26 03:08:24,087 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6LabsSharedImage.pc
+2026-04-26 03:08:24,090 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6LabsWavefrontMesh.pc
+2026-04-26 03:08:24,093 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Linguist.pc
+2026-04-26 03:08:24,094 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Network.pc
+2026-04-26 03:08:24,096 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6OpenGL.pc
+2026-04-26 03:08:24,097 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6OpenGLWidgets.pc
+2026-04-26 03:08:24,098 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Platform.pc
+2026-04-26 03:08:24,099 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6PrintSupport.pc
+2026-04-26 03:08:24,100 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QDocCatchConversionsPrivate.pc
+2026-04-26 03:08:24,102 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QDocCatchGeneratorsPrivate.pc
+2026-04-26 03:08:24,103 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Qml.pc
+2026-04-26 03:08:24,104 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlCompiler.pc
+2026-04-26 03:08:24,105 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlCore.pc
+2026-04-26 03:08:24,106 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlIntegration.pc
+2026-04-26 03:08:24,108 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlLocalStorage.pc
+2026-04-26 03:08:24,111 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlModels.pc
+2026-04-26 03:08:24,112 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlWorkerScript.pc
+2026-04-26 03:08:24,113 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QmlXmlListModel.pc
+2026-04-26 03:08:24,114 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Quick.pc
+2026-04-26 03:08:24,115 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickControls2.pc
+2026-04-26 03:08:24,116 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickControls2Impl.pc
+2026-04-26 03:08:24,118 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickDialogs2.pc
+2026-04-26 03:08:24,119 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickDialogs2QuickImpl.pc
+2026-04-26 03:08:24,120 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickDialogs2Utils.pc
+2026-04-26 03:08:24,122 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickLayouts.pc
+2026-04-26 03:08:24,123 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickTemplates2.pc
+2026-04-26 03:08:24,125 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickTest.pc
+2026-04-26 03:08:24,127 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6QuickWidgets.pc
+2026-04-26 03:08:24,129 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Sql.pc
+2026-04-26 03:08:24,130 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Svg.pc
+2026-04-26 03:08:24,131 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6SvgWidgets.pc
+2026-04-26 03:08:24,132 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Test.pc
+2026-04-26 03:08:24,133 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6UiPlugin.pc
+2026-04-26 03:08:24,134 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6UiTools.pc
+2026-04-26 03:08:24,135 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Widgets.pc
+2026-04-26 03:08:24,136 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\pkgconfig\Qt6Xml.pc
+2026-04-26 03:08:24,138 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Concurrent.prl
+2026-04-26 03:08:24,140 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Core.prl
+2026-04-26 03:08:24,142 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6DBus.prl
+2026-04-26 03:08:24,144 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Designer.prl
+2026-04-26 03:08:24,145 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6DesignerComponents.prl
+2026-04-26 03:08:24,146 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6DeviceDiscoverySupport.prl
+2026-04-26 03:08:24,147 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6EntryPoint.prl
+2026-04-26 03:08:24,148 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6ExampleIcons.prl
+2026-04-26 03:08:24,149 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6FbSupport.prl
+2026-04-26 03:08:24,150 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Gui.prl
+2026-04-26 03:08:24,151 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Help.prl
+2026-04-26 03:08:24,152 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6LabsAnimation.prl
+2026-04-26 03:08:24,154 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6LabsFolderListModel.prl
+2026-04-26 03:08:24,155 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6LabsQmlModels.prl
+2026-04-26 03:08:24,158 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6LabsSettings.prl
+2026-04-26 03:08:24,161 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6LabsSharedImage.prl
+2026-04-26 03:08:24,162 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6LabsWavefrontMesh.prl
+2026-04-26 03:08:24,163 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Network.prl
+2026-04-26 03:08:24,164 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6OpenGL.prl
+2026-04-26 03:08:24,166 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6OpenGLWidgets.prl
+2026-04-26 03:08:24,167 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6PacketProtocol.prl
+2026-04-26 03:08:24,168 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6PrintSupport.prl
+2026-04-26 03:08:24,169 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Qml.prl
+2026-04-26 03:08:24,170 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlCompiler.prl
+2026-04-26 03:08:24,172 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlCore.prl
+2026-04-26 03:08:24,175 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlDebug.prl
+2026-04-26 03:08:24,178 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlDom.prl
+2026-04-26 03:08:24,179 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlLocalStorage.prl
+2026-04-26 03:08:24,180 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlLS.prl
+2026-04-26 03:08:24,181 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlModels.prl
+2026-04-26 03:08:24,182 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlToolingSettings.prl
+2026-04-26 03:08:24,184 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlTypeRegistrar.prl
+2026-04-26 03:08:24,185 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlWorkerScript.prl
+2026-04-26 03:08:24,186 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QmlXmlListModel.prl
+2026-04-26 03:08:24,187 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Quick.prl
+2026-04-26 03:08:24,189 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickControls2.prl
+2026-04-26 03:08:24,191 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickControls2Impl.prl
+2026-04-26 03:08:24,194 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickControlsTestUtils.prl
+2026-04-26 03:08:24,195 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickDialogs2.prl
+2026-04-26 03:08:24,197 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickDialogs2QuickImpl.prl
+2026-04-26 03:08:24,197 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickDialogs2Utils.prl
+2026-04-26 03:08:24,199 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickEffects.prl
+2026-04-26 03:08:24,200 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickLayouts.prl
+2026-04-26 03:08:24,201 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickParticles.prl
+2026-04-26 03:08:24,202 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickShapes.prl
+2026-04-26 03:08:24,203 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickTemplates2.prl
+2026-04-26 03:08:24,214 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickTest.prl
+2026-04-26 03:08:24,216 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickTestUtils.prl
+2026-04-26 03:08:24,220 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6QuickWidgets.prl
+2026-04-26 03:08:24,227 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Sql.prl
+2026-04-26 03:08:24,229 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Svg.prl
+2026-04-26 03:08:24,231 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6SvgWidgets.prl
+2026-04-26 03:08:24,232 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Test.prl
+2026-04-26 03:08:24,234 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6UiTools.prl
+2026-04-26 03:08:24,235 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Widgets.prl
+2026-04-26 03:08:24,238 - aqt.updater - INFO - updater 10512 Patching D:\HUE\Material 2025-2026\Second term2\Programming 2\Projects\ATM\6.6.0\mingw_64\lib\Qt6Xml.prl
+2026-04-26 03:08:24,242 - aqt.main - INFO - installer 10512 Finished installation
+2026-04-26 03:08:24,243 - aqt.main - INFO - installer 10512 Time elapsed: 62.55744010 second
