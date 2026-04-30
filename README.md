@@ -6,17 +6,18 @@
 ![Qt](https://img.shields.io/badge/GUI-Qt5%20%7C%20Qt6-green.svg?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-success.svg?style=flat-square)
 
-A secure and interactive **ATM simulator** built in **C++** with the **Qt framework**, designed to demonstrate clean object-oriented design, file-based persistence, and a polished desktop GUI experience.
+A secure and interactive **ATM simulator** built in **C++** with the **Qt framework**.  
+Designed to demonstrate clean object-oriented design, file-based persistence, and a polished desktop GUI experience.
 
 ---
 
 ## ✨ Overview
 
-This project simulates core banking operations through a user-friendly graphical interface. It is ideal for:
+This project simulates common banking operations through a user-friendly graphical interface. It is ideal for:
 
 - learning **C++ GUI development**
 - practicing **Qt application design**
-- exploring **OOP architecture**
+- exploring **object-oriented programming**
 - understanding **basic persistence and transaction workflows**
 
 ---
@@ -162,7 +163,7 @@ Once launched, the application opens a login window where users enter:
 
 The repository includes predefined accounts in `data/accounts.txt` for testing.
 
-| Account Number | PIN  | Initial Balance | Notes |
+| Account Number | PIN | Initial Balance | Notes |
 |---|---:|---:|---|
 | `123456` | `1234` | `$1,000.00` | Standard test account |
 | `654321` | `4321` | `$500.00` | Useful for withdrawal limit testing |
@@ -185,6 +186,14 @@ The repository includes predefined accounts in `data/accounts.txt` for testing.
 
 ---
 
+## 🧪 Example Workflow
+
+```text
+Open app → Login → View balance → Deposit/Withdraw → Check history → Logout
+```
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -193,17 +202,23 @@ Contributions are welcome!
 
 1. Fork the repository
 2. Create a branch:
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
+
+```bash
+git checkout -b feature/amazing-feature
+```
+
 3. Commit your changes:
-   ```bash
-   git commit -m "Add amazing feature"
-   ```
+
+```bash
+git commit -m "Add amazing feature"
+```
+
 4. Push the branch:
-   ```bash
-   git push origin feature/amazing-feature
-   ```
+
+```bash
+git push origin feature/amazing-feature
+```
+
 5. Open a Pull Request
 
 ### Contribution Guidelines
